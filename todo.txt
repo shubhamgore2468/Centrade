@@ -1,0 +1,9 @@
+API_KEY = 5sjRnMzTs1bCFZzXeP7f0e4onHW5CxtZY7bHI/POIRs=
+API_SECRET = uY/86KO3IOC/X9I8QOf4jKb8RP612OQlo5qlrtPUBs4=
+
+
+chartmanager
+
+frontend - Nextjs
+realtime data - using web socket connection - singleton
+Redis to take request sequentially
